@@ -1,3 +1,8 @@
+@font-face {
+    font-family: digitalFont;
+    src: url(digital-7.ttf);
+}
+
 main {
     background: #1B244A;
     width: 575px;
@@ -8,6 +13,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    font-family: digitalFont;
 }
 
 .home-section, .guest-section {
@@ -47,4 +53,7 @@ h2 {
 
 h1 {
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight; bold;
+    font-size: 35px;
 }
