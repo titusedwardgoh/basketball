@@ -1,8 +1,7 @@
 @font-face {
     font-family: digitalFont;
-    src: url(digital-7.ttf) format('truetype'); 
-    font-weight: normal;
-    font-style: normal;
+    src: url(digital-7 (mono).ttf) ; 
+    
 }
 
 main {
